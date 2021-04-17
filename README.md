@@ -1,9 +1,9 @@
-## Venom - real-time P2P BFT KV
+## Pipeless - Pipeless API
 
-[![crates.io](https://meritbadge.herokuapp.com/venom)](https://crates.io/crates/venom)
+[![crates.io](https://meritbadge.herokuapp.com/pipeless)](https://crates.io/crates/pipeless)
 
 ### Purpose
 
-The purpose of this service is to be a real-time distributed P2P BFT KV.
+The purpose of this crate is to be an API wrapper for the latest Pipless API.
 
 Currently this is just a placeholder.
