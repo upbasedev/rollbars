@@ -1,13 +1,13 @@
 [package]
-name = "pipeless"
+name = "rollbars"
 version = "0.0.1"
 authors = ["Bevan Hunt <bevan@bevanhunt.com>"]
 edition = "2018"
 license = "MIT"
-keywords = ["pipeless", "api"]
+keywords = ["rollbar", "api"]
 categories = ["web-programming", "api-bindings"]
-description = "Pipeless API"
-repository = "https://github.com/apibillme/pipeless"
+description = "Rollbar API"
+repository = "https://github.com/apibillme/rollbars"
 readme = "README.md"
 
 [dependencies]
